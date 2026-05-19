@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsApp Bot</string>
+    <string name="accessibility_service_description">Serviço para automatizar respostas no WhatsApp</string>
+    <string name="accessibility_service_label">WhatsApp Bot Service</string>
+    <string name="enable_accessibility">Habilitar Serviço de Acessibilidade</string>
+    <string name="accessibility_enabled">Serviço de Acessibilidade Habilitado</string>
+    <string name="accessibility_disabled">Serviço de Acessibilidade Desabilitado</string>
+    <string name="start_service">Iniciar Serviço</string>
+    <string name="stop_service">Parar Serviço</string>
+    <string name="service_status">Status do Serviço: %s</string>
+</resources>
